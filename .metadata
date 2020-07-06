@@ -1,6 +1,6 @@
 {
   "author" : "Khe",
-  "description" : "Patch for enhanced Storage. Addresses some duplication cases that can occur.\nAdds support for some objects from Frackin Universe that the mod doesn't cover\nAdds support for More Outpost Objects.\nStorage dissassembler no longer ejects containers that have contents.",
+  "description" : "Patch for enhanced Storage. Addresses some duplication cases that can occur.\nAdds support for some objects from Frackin Universe that the mod doesn't cover\nAdds support for More Outpost Objects.\nStorage dissassembler no longer ejects containers that have contents.\nAnything missing, help out with a pull request on Github: https://github.com/Kherae/enhancedstoragepatch",
   "friendlyName" : "Enhanced Storage Patch",
   "includes" : ["Enhanced Storage", "FrackinUniverse", "More Outpost Objects"],
   "link" : "steam://url/CommunityFilePage/2155713859",

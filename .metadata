@@ -1,0 +1,8 @@
+{
+  "author" : "Khe",
+  "description" : "Patch for enhanced Storage. Addresses some duplication cases that can occur.\nAdds support for some objects from Frackin Universe that the mod doesn't cover\nAdds support for More Outpost Objects.",
+  "friendlyName" : "Enhanced Storage Patch",
+  "includes" : ["Enhanced Storage", "FrackinUniverse", "More Outpost Objects"],
+  "name" : "Enhanced Storage Patch",
+  "version" : "1"
+}

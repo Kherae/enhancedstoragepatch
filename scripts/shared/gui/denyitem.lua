@@ -1,6 +1,6 @@
 function denyInvalidItems(checkName, checkCategory, checkType)
 	local validItemList = {}
-	local containerItems = world.containerItems(pane.containerEntityId())
+	local containerItems = world.containerItems(pane.containerEntityId()) or {}
 	for _, containerItem in pairs(containerItems) do
 		validItem = false
 

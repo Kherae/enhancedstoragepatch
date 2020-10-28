@@ -1,0 +1,3 @@
+{
+	[{"op":"add","path":"/supportedContainers/itemID","value":"/path/to/container.object"}]
+}

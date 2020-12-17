@@ -24,6 +24,6 @@ function update(dt)
 end
 
 function die()
-	if die then enhancedstorageolddie() end
+	if enhancedstorageolddie then enhancedstorageolddie() end
 	smashContainer("container")
 end

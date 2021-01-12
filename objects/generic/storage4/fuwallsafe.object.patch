@@ -1,0 +1,3 @@
+[
+	[{"op": "add","path": "/scripts","value": [ "/objects/smartbox/singular/singular.lua","/scripts/enhancedstorage.lua" ]}]
+]

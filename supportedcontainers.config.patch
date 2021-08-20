@@ -1,3 +1,152 @@
 [
-	[{"op": "add","path": "/supportedContainers/itemId","value": "/path/to/container.object"}]
+	[{
+		"op": "add",
+		"path": "/supportedContainers/itemId",
+		"value": "/path/to/container.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/sgcanister",
+		"value": "/objects/csobjects/sgcanister/industrialcanister.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/sgcontainer",
+		"value": "/objects/csobjects/sgcontainer/sgshippingcontainer.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/sgmunitions",
+		"value": "/objects/csobjects/sgmunitions/weaponchest.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedlegioncontainer1",
+		"value": "/objects/legion/letheiaexpandedlegioncontainer1/letheiaexpandedlegioncontainer1.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedlegioncontainer2",
+		"value": "/objects/legion/letheiaexpandedlegioncontainer2/letheiaexpandedlegioncontainer2.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedlegioncontainer3",
+		"value": "/objects/legion/letheiaexpandedlegioncontainer3/letheiaexpandedlegioncontainer3.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedlegioncontainer4",
+		"value": "/objects/legion/letheiaexpandedlegioncontainer4/letheiaexpandedlegioncontainer4.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedbookcasetall",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedbookcasetall/letheiaexpandedbookcasetall.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedcabinet",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedcabinet/letheiaexpandedcabinet.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedcase1",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedcase1/letheiaexpandedcase1.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedcase2",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedcase2/letheiaexpandedcase2.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedcontainer1",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedcontainer1/letheiaexpandedcontainer1.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedcontainer2",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedcontainer2/letheiaexpandedcontainer2.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedcontainer3",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedcontainer3/letheiaexpandedcontainer3.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandeddrawer",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandeddrawer/letheiaexpandeddrawer.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandeddrawersmall",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandeddrawersmall/letheiaexpandeddrawersmall.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedexecutivecabinet",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedexecutivecabinet/letheiaexpandedexecutivecabinet.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedexecutivecloset",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedexecutivecloset/letheiaexpandedexecutivecloset.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedexecutivedesk",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedexecutivedesk/letheiaexpandedexecutivedesk.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedexecutivedrawer",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedexecutivedrawer/letheiaexpandedexecutivedrawer.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedlocker",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedlocker/letheiaexpandedlocker.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedlockerwall",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedlockerwall/letheiaexpandedlockerwall.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedmodernbookcase",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedmodernbookcase/letheiaexpandedmodernbookcase.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedmodernbookshelf",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedmodernbookshelf/letheiaexpandedmodernbookshelf.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedreinforcedbookcase",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedreinforcedbookcase/letheiaexpandedreinforcedbookcase.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/letheiaexpandedtrashcan",
+		"value": "/objects/letheiaobjectsexpanded/letheiaexpandedtrashcan/letheiaexpandedtrashcan.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/imm_protectoratestoragelocker",
+		"value": "/objects/protectorate/objects/imm_protectoratestoragelocker/storagelocker.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/protectorateshiplocker",
+		"value": "/objects/ship/protectorateshiplocker/protectorateshiplocker.object"
+	}],
+	[{
+		"op": "add",
+		"path": "/supportedContainers/bk3k_stationWarehouseLocker",
+		"value": "/objects/shipyard/bk3k_stationWarehouseLocker/bk3k_stationWarehouseLocker.object"
+	}]
 ]

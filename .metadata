@@ -2,7 +2,7 @@
   "author" : "Khe",
   "description" : "Patch for enhanced Storage.\n\nAdditional mods supported: \nBetter Ships - Protectorate Walls (partial)\n Shellguard: Starbound Expansion Remastered (partial)\n\nAnything missing, help out with a pull request on Github: https://github.com/Kherae/enhancedstoragepatch\n\nPlease, do contribute. Right now, the mod has partial support for newer stuff because /supportedcontainers.config.patch requires specific values added, as indicated by the file contained in this mod (see github). You get your name on a label and some cookies!\n\nNote: Many patches were moved to the main enhanced storage mod! Yay!",
   "friendlyName" : "Enhanced Storage Patch",
-  "includes" : ["Enhanced Storage", "BetterShipsProtectorateWalls", "Shellguard Expansion "],
+  "includes" : ["Enhanced Storage", "BetterShipsProtectorateWalls", "Shellguard Expansion ", "bk3k_blocks_and_objects", "Letheia Expanded"],
   "link" : "steam://url/CommunityFilePage/2155713859",
   "name" : "Enhanced Storage Patch",
   "steamContentId" : "2155713859",
